@@ -22671,8 +22671,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Lim_Zhen_Lun_Bryan_Bot",
-      "projectName": "Lim_Zhen_Lun_Bryan_Bot",
+      "projectUniqueName": "Cows and Bulls",
+      "projectName": "Cows and Bulls",
       "projectPath": "C:\\Users\\Admin\\Desktop\\CowsAndBulls UiPath\\.local",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Desktop\\CowsAndBulls UiPath\\.local"
